@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "08c18ba2-bbf1-449f-8246-c8a51609589f",
-            "Value": {
-                "id": "891bc13c-77d7-4d64-b01b-c82c98217911",
-                "resourcePath": "sprites\\spr_CalebF\\spr_CalebF.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0cf91e6e-3030-4999-a6f2-e5b6c157f9fc",
             "Value": {
                 "id": "a8c6a27c-be73-45e6-b247-d4155b03682e",
@@ -111,6 +103,14 @@
             }
         },
         {
+            "Key": "96267969-405c-4e9d-8a1e-108bf302dc6c",
+            "Value": {
+                "id": "d947f547-ca3f-4d5a-9e6c-d7b75b089d2a",
+                "resourcePath": "sprites\\heartaarenw\\heartaarenw.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "978153bc-2bfe-4183-a370-4911082af369",
             "Value": {
                 "id": "31e1db61-ebae-46e3-b50b-337a4a7c5e59",
@@ -164,6 +164,14 @@
                 "id": "0ff69ecf-962a-4a74-8994-0e59edf2708d",
                 "resourcePath": "views\\d9fbc622-bb2b-4f46-8d70-c0e23de9cc28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e666a9be-a335-4434-9348-ef1d5ad0df55",
+            "Value": {
+                "id": "280a753f-0050-4be2-9f1a-7387ad74bfc5",
+                "resourcePath": "sprites\\spr_circle\\spr_circle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
