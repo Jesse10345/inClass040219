@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "35ea9cc7-e7d0-4f0e-aee4-ec6aa2a67b41",
+            "Value": {
+                "id": "9be61cf8-a9ed-443f-8d6a-d4de04215485",
+                "resourcePath": "sprites\\spr_Caleb2\\spr_Caleb2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "420896e5-dd45-4a0c-97b8-00f373011e69",
             "Value": {
                 "id": "0f79c4ed-7c97-4075-8389-66a6f9ff24fc",
